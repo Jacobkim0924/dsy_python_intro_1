@@ -1,1 +1,1 @@
-print ('Hi Jacob Kim')
+print ('Jacob Kim')
